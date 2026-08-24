@@ -10,45 +10,45 @@ arb_motor/
 ├── app/
 │   ├── Http/
 │   │   └── Controllers/
-│   │       ├── HomeController.php          ← GANTI
-│   │       ├── ServiceController.php       ← GANTI
-│   │       ├── SparePartController.php     ← GANTI
+│   │       ├── HomeController.php          
+│   │       ├── ServiceController.php       
+│   │       ├── SparePartController.php     
 │   │       └── Admin/
-│   │           └── DashboardController.php ← BARU
+│   │           └── DashboardController.php 
 │   └── Models/
-│       ├── Booking.php                     ← GANTI
-│       ├── Service.php                     ← GANTI
-│       ├── SparePart.php                   ← GANTI
-│       └── Testimonial.php                 ← BARU
+│       ├── Booking.php                     
+│       ├── Service.php                     
+│       ├── SparePart.php                   
+│       └── Testimonial.php                 
 ├── database/
 │   ├── migrations/
-│   │   ├── xxxx_add_image_to_spare_parts.php  ← BARU
-│   │   ├── xxxx_add_category_to_services.php  ← BARU
-│   │   └── xxxx_create_testimonials.php       ← BARU
+│   │   ├── xxxx_add_image_to_spare_parts.php  
+│   │   ├── xxxx_add_category_to_services.php  
+│   │   └── xxxx_create_testimonials.php       
 │   └── seeders/
-│       └── TestimonialSeeder.php          ← BARU
+│       └── TestimonialSeeder.php          
 ├── resources/
-│   ├── css/app.css                        ← GANTI
-│   ├── js/app.js                          ← GANTI
+│   ├── css/app.css                        
+│   ├── js/app.js                          
 │   └── views/
 │       ├── layouts/
-│       │   ├── app.blade.php              ← GANTI
-│       │   └── admin.blade.php            ← BARU
-│       ├── home.blade.php                 ← GANTI
+│       │   ├── app.blade.php              
+│       │   └── admin.blade.php            
+│       ├── home.blade.php                 
 │       ├── services/
-│       │   ├── index.blade.php            ← GANTI
-│       │   └── show.blade.php             ← GANTI
+│       │   ├── index.blade.php            
+│       │   └── show.blade.php             
 │       ├── spareparts/
-│       │   ├── index.blade.php            ← GANTI
-│       │   └── show.blade.php             ← GANTI
+│       │   ├── index.blade.php            
+│       │   └── show.blade.php             
 │       └── admin/
-│           ├── dashboard.blade.php        ← BARU
+│           ├── dashboard.blade.php        
 │           └── spareparts/
-│               ├── index.blade.php        ← BARU
-│               ├── create.blade.php       ← BARU
-│               └── edit.blade.php         ← BARU
+│               ├── index.blade.php        
+│               ├── create.blade.php       
+│               └── edit.blade.php        
 └── routes/
-    └── web.php                            ← GANTI
+    └── web.php                            
 ```
 
 ---
