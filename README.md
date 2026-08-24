@@ -3,8 +3,6 @@
 
 ---
 
-## STRUKTUR FILE YANG PERLU DIUBAH/DITAMBAH
-
 ```
 arb_motor/
 ├── app/
